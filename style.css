@@ -1,6 +1,9 @@
+body {
+	background-color: #707070;
+}
 #canvas {
-	background-color: red;
-	color: white;
+	background-color: #252525;
+	color: #f0f0f0;
 	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
 		"Lucida Sans", Arial, sans-serif;
 	font-size: 25px;
@@ -19,10 +22,10 @@
 	width: 200px;
 	height: 50px;
 	margin: 50px auto 50px;
-	color: white;
+	color: #f0f0f0;
 	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
 		"Lucida Sans", Arial, sans-serif;
-	background: black;
+	background: #252525;
 	border-radius: 5px;
 	border-style: none;
 	display: block;
